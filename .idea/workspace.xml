@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2ce0ac0-6eb5-4842-b7a7-32bdde6b5398" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/behavioral/chainofresponsibility/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/behavioral/command/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/behavioral/interpreter/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/behavioral/iterator/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/behavioral/mediator/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/behavioral/memento/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/behavioral/observer/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/behavioral/state/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/behavioral/strategy/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/behavioral/templatemethod/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/behavioral/visitor/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/creational/abstractfactory/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/creational/builder/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/creational/factorymethod/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/creational/prototype/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/creational/singleton/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/adapter/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/adapter/java/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/adapter/java/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/adapter/java/Turkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/adapter/java/TurkeyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/adapter/java/WildTurkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/adapter/kotlin/App.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/adapter/kotlin/Duck.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/adapter/kotlin/MallardDuck.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/adapter/kotlin/Turkey.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/adapter/kotlin/TurkeyAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/adapter/kotlin/WildTurkey.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/bridge/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/composite/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/decorator/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/facade/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/flyweight/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/me/shockyng/designpatterns/structural/proxy/.gitkeep" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28Niuvt0U1Irigq2MRohDTmvSiJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Files/Estudo/design-patterns/src/main/kotlin/me/shockyng/designpatterns/structural/adapter/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Files\Estudo\design-patterns\src\main\kotlin\me\shockyng\designpatterns\structural\adapter\java" />
+      <recent name="C:\Files\Estudo\design-patterns\src\main\kotlin\me\shockyng\designpatterns\structural\proxy" />
+      <recent name="C:\Files\Estudo\design-patterns\src\main\kotlin\me\shockyng\designpatterns\structural\flyweight" />
+      <recent name="C:\Files\Estudo\design-patterns\src\main\kotlin\me\shockyng\designpatterns\structural\facade" />
+      <recent name="C:\Files\Estudo\design-patterns\src\main\kotlin\me\shockyng\designpatterns\structural\decorator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Files\Estudo\design-patterns\src\main\kotlin\me\shockyng\designpatterns\structural\adapter\kotlin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.shockyng.designpatterns.structural.adapter.java.App" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.shockyng.designpatterns.structural.adapter.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.shockyng.designpatterns.structural.adapter.kotlin.AppKt" />
+      <module name="design-patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Kotlin.AppKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2ce0ac0-6eb5-4842-b7a7-32bdde6b5398" name="Changes" comment="" />
+      <created>1651063676754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651063676754</updated>
+      <workItem from="1651063678105" duration="8000" />
+      <workItem from="1651063714346" duration="2332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
